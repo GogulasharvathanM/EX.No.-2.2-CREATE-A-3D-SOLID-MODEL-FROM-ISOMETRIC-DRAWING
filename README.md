@@ -20,7 +20,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 1. Select the **Top Plane** and create a new sketch.
 
-2. Draw two circles of diameter $\varnothing16\text{ mm)$ spaced 56mm apart horizontally along the center axis.
+2. Draw two circles of diameter spaced 56mm apart horizontally along the center axis.
 
 3. Draw concentric arcs of radius R18mm around each circle center.
 
@@ -66,7 +66,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 1. Select the top surface of the upper cantilever arm or a parallel plane.
 
-2. Draw a circle of diameter **$\varnothing30\text{ mm)$** centered at the front end of the arm
+2. Draw a circle of diameter centered at the front end of the arm
 
 3. Extrude this sketch upwards by **10mm**.
 
